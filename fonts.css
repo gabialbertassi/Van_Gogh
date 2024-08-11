@@ -1,0 +1,24 @@
+@font-face {
+    font-family: fontea;
+    src: url(/public/assets/fonts/elevena/Elevena.ttf);
+}
+
+@font-face {
+    font-family: fonteb;
+    src: url(/public/assets/fonts/elevena/jbelegant/JBElegant-regular.ttf);
+}
+
+@font-face {
+    font-family: fontec;
+    src: url(/public/assets/fonts/gallero_vintage/GalleroVintage-DemoVersion-Regular.otf);
+}
+
+@font-face {
+    font-family: fonted;
+    src: url(/public/assets/fonts/TipoiFoodTextos-Regular.woff2);
+}
+
+@font-face {
+    font-family: fontee;
+    src: url(/public/assets/fonts/devis/Devis\ PERSONAL\ USE\ ONLY!.ttf);
+}
